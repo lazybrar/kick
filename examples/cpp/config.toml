@@ -1,0 +1,5 @@
+language = "cpp"
+discription = "Simple cmake based cpp template"
+
+[variables]
+#name="value"
