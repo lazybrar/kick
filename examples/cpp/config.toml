@@ -1,4 +1,4 @@
-language = "cpp"
+name = "cpp"
 discription = "Simple cmake based cpp template"
 
 [variables]
